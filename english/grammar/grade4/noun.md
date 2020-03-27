@@ -1,6 +1,6 @@
 # Underline the common nouns
 
-1. There is a little ```bird``` in the ```garden```.
+1. There is a little **bir** in the ```garden```.
 2. Who is your ```teacher```?
 3. Don’t eat that rotten ```apple```.
 4. Kayal has a lovely ~doll~.
