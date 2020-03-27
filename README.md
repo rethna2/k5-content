@@ -8,7 +8,7 @@
 
 # Grade 2
 
-1. [Noun](english/grammar/grade2/nouns.md)
+1. [Noun](english/grammar/grade2/noun.md)
 2. [Article](english/grammar/grade2/article.md)
 3. [Pronoun](english/grammar/grade2/pronoun.md)
 4. [Verb](english/grammar/grade2/verb.md)
