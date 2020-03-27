@@ -1,7 +1,7 @@
 # Underline the proper noun
 
-__add content here__
+--add content here--
 
 # Underline the common noun
 
-__add content here__
+--add content here--
