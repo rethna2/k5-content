@@ -4,8 +4,18 @@
 
 Here goes **bold** text.
 
-Here goes __italic__ text.
+### List
+
+1. First Item
+2. Second Item
+3. Third Item
+
+### Unordered list
+
+* First Item
+* Second Item
+* Third Item
 
 ### Links
 
-1. [Nouns](english/grammar/grade4/noun.md)
+[Nouns](english/grammar/grade4/noun.md)
