@@ -8,5 +8,5 @@
 6. Arrange your books **near* the chair.
 7. The lion lives **in** the forest.
 8. We go to school **by** bus.
-9. Fruits are made **into** jam. 
+9. Fruits are made **into** jam.
 10.Look **at** the picture. 
