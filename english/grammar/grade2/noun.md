@@ -4,7 +4,7 @@
 2. **English** is fun to learn.
 3. My mother made **potatoes** for me.
 4. My friend is going to **Delhi**.
-5. He took an **apple** for me. 
+5. He took an **apricot** for me. 
 6. We will have a birthday party on **Tuesday**.
 7. Our class will visit the **Taj Mahal** next month.
 8. Her parents are from **Chennai**.
