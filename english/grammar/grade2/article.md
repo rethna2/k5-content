@@ -1,4 +1,4 @@
-# Fill in the blanks with appropriate articles
+# Fill in the blanks with appropriate articles. (a, an, the)
 
 1. Tara will sing _____ song in the prayer.
 2. Squirrels ran across _____ park.
