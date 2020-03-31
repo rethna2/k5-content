@@ -39,3 +39,18 @@
 9. A **pod** of dolphins swam to the shore.
 10. We loved to watch a **school** of fish in the aquarium.
 
+# Underline the abstract nouns
+
+1. You must build your **confidence** to win.
+2. The birds have the **freedom** to fly everywhere.
+3. Ram must learn to have a good **attitude**.
+4. Saranya wanted to use the **opportunity** to study more.
+5. We enjoyed the **thrill** of rides in the theme park.
+6. What a **luck** to win the first prize.
+7. Everyone must understand the **importance** of education.
+8. Learn to be **kind** to birds and animals.
+9. Are you ready to take the **decision** now?
+10. We must show **compassion** to animals.
+
+
+
