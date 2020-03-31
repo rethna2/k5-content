@@ -9,4 +9,4 @@
 7. Please cross the road **carefully**.
 8. Read your books **silently** in the library.
 9. We **finally** arrived at the museum.
-10. Sam clapped **happily** for her sister.
+10. Sarayu clapped **happily** for her sister.
