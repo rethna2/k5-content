@@ -24,3 +24,18 @@
 8. Many children enjoyed the movie **Lion King**.
 9. **Robert Louis Stevenson** wrote **Treasure Island**.
 10. The Capital of **Illinois** is **Springfield.**
+
+
+# Underline the collective nouns
+
+1. Ram presented a **bouquet** of flowers.
+2. A **fleet** of ships arrived with necessarymedicines.
+3. A **colony** of ants built their nest in the park. 
+4. Our teacher took us to an **orchard** of mangoes yesterday.
+5. My mother bought me a **pack** of colour pencils to draw.
+6. The **audience** at the auditorium clapped loudly.
+7. A **flock** of birds fly in the sky.
+8. The selected **committee** of members visited the site.
+9. A **pod** of dolphins swam to the shore.
+10. We loved to watch a **school** of fish in the aquarium.
+
