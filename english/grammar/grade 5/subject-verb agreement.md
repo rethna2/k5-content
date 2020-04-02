@@ -9,4 +9,4 @@
 7. Sarah ______ (listen/**listens**) to music all the time.
 8. One of the dogs _______ (bark/**barks**) all night long.
 9. The basketball game _______ (**is**/are) one of the exciting games.
-10. Sarath and Raj _______ (is/are) the best players in the team.
+10. Sarath and Raj _______ (is/**are**) the best players in the team.
