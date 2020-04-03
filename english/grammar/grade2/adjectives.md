@@ -10,3 +10,8 @@
 8. She likes to take bath in **warm** water.
 9. Bees build their nests **high** in the tree.
 10. Ramya is a **good** teacher.
+11. There is a **big** statue in the park.
+12. The baby birds looked **small**.
+13. I have a **white** cat at home.
+14. Ram draws with his **sharp** pencil.
+15. My mother cooks **tasty** dishes for me.
