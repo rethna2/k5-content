@@ -1,4 +1,4 @@
-# Underline the proper noun
+# Underline the proper nouns
 
 1. **Raj** goes to school.
 2. **English** is fun to learn.
@@ -11,7 +11,7 @@
 9. I like to play **football** with friends. 
 10. Today is not hot as **April**. 
 
-# Underline the common noun
+# Underline the common nouns
 
 1. We will go to that **restaurant**.
 2. There is no **homework** in Math.
@@ -23,3 +23,16 @@
 8. The fishermen sail in the **sea**.
 9. The Mughal Garden is full of **flowers**.
 10. Sam is reading a **book**. 
+
+# Underline the plural nouns
+
+1. We saw many **butterflies** in the garden.
+2. The teacher asked us to sit on our **chairs**.
+3. My mother gave me two **mangoes**.
+4. **Stars** shine at night.
+5. The **children** liked to play cricket.
+6. There are many **ships** at the sea.
+7. Ravi likes to eat **tomatoes**.
+8. The train will reach Chennai in ten **minutes**.
+9. The clock showed five **seconds** to ten. 
+10. Ramya and Kamala like to read **books**.
