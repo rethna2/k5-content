@@ -10,3 +10,9 @@
 8. One of the dogs _______ (bark/**barks**) all night long.
 9. The basketball game _______ (**is**/are) one of the exciting games.
 10. Sarath and Raj _______ (is/**are**) the best players in the team.
+11. The quality of the candles (**is**/are) poor.
+12. One of the books (**has**/have) been missing.
+13. Saran wants to have bread and butter (**is**/are) as his breakfast.
+14. The horses (gallops/**gallop**) across the field.
+15. Some of my luggage (were/**was**/ lost.
+
