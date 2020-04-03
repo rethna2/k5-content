@@ -15,3 +15,8 @@
 13. Janaki **screamed** at the cockroach.
 14. Kites **fly** in the sky.
 15. The bus **turned** at the corner.
+16. Birds **sing** beautiful spring tunes.
+17. Janani **fills** the tub with water.
+18. Ram **eats** his breakfast now.
+19. I **like** apples.
+20. Please **ride** the bicycle to home.
