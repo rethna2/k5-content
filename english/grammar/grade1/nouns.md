@@ -23,3 +23,16 @@
 8. Every **Sunday** I go to the beach.
 9. **Tamil** is my mother tongue.
 10. **Dolphins** play in the sea shore.
+
+# Underline the common nouns
+
+1. We must eat **fruits** everyday.
+2. Many **houses** are built with mud.
+3. Are you going to the **party**?
+4. They walked on a busy **street**.
+5. Chitra lives near the **mountain**.
+6. Jupiter is a big **planet**.
+7. Our **teacher** asked us to go.
+8. All **shops** are closed.
+9. Wash your **hands** with soap and water.
+10. Julie likes to play with her **dolls**.
