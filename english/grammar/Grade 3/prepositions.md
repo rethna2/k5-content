@@ -14,4 +14,9 @@ Fill in the blanks with the correct prepositions
 12. The train went **through**/into the tunnel.
 13. There is a beautiful garden **behind**/below our house.
 14. The temperature is ten degrees **below**/on the freezing point.
-15. 
+15. Firework was invented **by**/from the Chinese.
+16. Many people are standing **before**/beside me in the queue.
+17. Saranya is now hiding **behind**/beside that big tree.
+18. That city is behind/**below** the sea level.
+19. She likes sitting **by**/between the window seat.
+20. The children must study **between**/after 6 pm and 7 pm.
