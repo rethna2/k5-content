@@ -15,3 +15,10 @@
 13. I have a **white** cat at home.
 14. Ram draws with his **sharp** pencil.
 15. My mother cooks **tasty** dishes for me.
+16. Ravi is a **strong** boy.
+17. Her hair is **black** in colour.
+18. They served **hot** tea in the party.
+19. The elephant is **big** in size.
+20. The **light** balloon flies in the sky.
+
+(https://www.takshilalearning.com/practice-worksheet-for-class-2-english-grammar-adjectives/)
