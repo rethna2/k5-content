@@ -19,4 +19,4 @@
 17. Please wait **patiently**/slowly/quickly for your turn. 
 18. Richard was injured **badly**/extremely/fairly in the accident.
 19. Rakesh **usually**/slowly/clearly go to bed at 9 pm every night.
-20. We go to theatre occasionally
+20. We go to theatre **occasionally**/irregularly/unhappily to watch films.
