@@ -8,4 +8,10 @@
 6. You have answered all the questions **correctly**/wrongly/shortly.
 7. Everyone arrived **early**/late/soon to the meeting.
 8. Siva followed the footprints **closely**/randomly/continuously to reach the place.
-9. 
+9. We didn't expect to reach the venue so **late**/soon/after in the night.
+10. Ravi must drive his bicycle **carefully**/quickly/silently in the traffic.
+11. Leela is **always**/often/never cheerful.
+12. Don't walk **carelessly**/carefully/immediately on the busy road.
+13. The teacher asked us to write **neatly**/carelessly/slowly on the notebook.
+14. The children performed **badly**/silently/immediately in the dance show.
+15. Ragav is waiting for his daughter there/here/**inside** the garden.
