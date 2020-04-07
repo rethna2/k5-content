@@ -9,4 +9,4 @@
 7. Sangeetha completed her worksheets **correctly**/perfectly/sincerely on time.
 8. Yesterday, Sheela organized her books **neatly**/randomly/immediately on the shelf.
 9. It took sometime for us to sail **smoothly**/silently/quickly across the sea.
-10. 
+10. Martha dances ballet **beautifully**/gracefully/smoothly than her team members.
