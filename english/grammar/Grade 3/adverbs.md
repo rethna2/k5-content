@@ -14,4 +14,9 @@
 12. Don't walk **carelessly**/carefully/immediately on the busy road.
 13. The teacher asked us to write **neatly**/carelessly/slowly on the notebook.
 14. The children performed **badly**/silently/immediately in the dance show.
-15. Ragav is waiting for his daughter there/here/**inside** the garden.
+15. Ragav is waiting for his daughter there/here/**inside** the local park.
+16. The water in the tub is **extremely**/randomly/cheerfully hot.
+17. Please wait **patiently**/slowly/quickly for your turn. 
+18. Richard was injured **badly**/extremely/fairly in the accident.
+19. Rakesh **usually**/slowly/clearly go to bed at 9 pm every night.
+20. We go to theatre occasionally
