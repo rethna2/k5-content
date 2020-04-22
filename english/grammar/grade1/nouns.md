@@ -10,6 +10,16 @@
 8. I like to ride my **bicycle**.
 9. Please give me a **pencil**.
 10. The **bus** will stop now.
+11. I am at **school**.
+12. Put the **toys** away.
+13. Do you like **animals**?
+14. The birds flew **north**.
+15. Please close the **door**.
+16. I like playing **chess**.
+17. The **pumpkins** grew big.
+18. She likes eating **grapes**.
+19. Please wash your **hands**.
+20. He has three **puppies**.
 
 # Underline the proper nouns
 
