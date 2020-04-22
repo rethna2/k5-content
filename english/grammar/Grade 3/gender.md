@@ -2,8 +2,8 @@
 
 ## Masculine
 
-boy, man, bride
+boy, man, cock, bull, lion, father, prince,
 
 ## Feminine
 
-girl, woman, 
+girl, woman, sister, hen, cow, princess
