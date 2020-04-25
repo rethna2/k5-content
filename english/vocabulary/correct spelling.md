@@ -1,6 +1,6 @@
 #Pick the word that has the correct spelling
 
- **flies**/flys
+1. **flies**/flys
 2. clas/**class**
 3. kold/**cold**
 4. memary/**memory**
@@ -11,10 +11,10 @@
 9. catle/**cattle**
 10. **chilli**/chily
 11. **Boss**/Bos
-12. sistr/**sister
+12. sistr/**sister**
 13. beter/**better**
 14. **wheat**/wheet
-15. berrys/**berries
+15. berrys/**berries**
 16. **fries**/frys
 17. meels/**meals**
 18. **doctor**/doktor
