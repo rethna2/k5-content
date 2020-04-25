@@ -35,6 +35,12 @@
 6. begining/**beginning**
 7. **surprise**/suprise
 8. **calendar**/calender
+9. **vehicle**/vehical
+10. **difference**/diffrence
+11. ausom/**awesome**
+12. girafee/**giraffe**
+13. **meaning**/meening
+14. adress/**address**
 
 
 
