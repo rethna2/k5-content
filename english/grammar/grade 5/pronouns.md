@@ -20,3 +20,21 @@
 18. That is not your cat. It is (**mine**/yours).
 19. The dog ate (**its**/theirs) food and went to sleep.
 20. Every Sunday, we meet (**them**/they) at the sea shore. 
+
+```js
+const data = `Saranya likes to cook. Everyone likes ~her~ cooking. (his)
+Kumar and his brother enjoy watching action films. This movie is for ~them~. (they)
+Do you like movies? Please join ~us~ at the theatre. (them)
+I will meet Sangeetha tomorrow. I am meeting ~her~ for the first time. (him)
+You left ~your~ text books on the table. (yours)
+I want to know ~who~ is going to play as villain.  (whom)
+Please eat whatever you want. The choice is ~yours~. (your)
+Rekha told ~him~ about the celebration next week. (his)
+Rahul cannot come with ~us~ today. (them)
+She grows Jasmine on her terrace. ~They~ smell sweet. (Them)
+Peacock is our national bird. ~It~ has beautiful feathers. (They)
+Ram will visit ~his~ grandmother this week. (her)
+Don't walk fast. ~We~ feel tired. (Us)
+Every Sunday, we meet ~them~ at the sea shore. (they)`;
+
+```
