@@ -144,54 +144,70 @@
 		      qText: `The person in command of a ship`,
                       options: `Captain,Driver,Author`
                   },
-		      
-		   
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		      
-		 
 		  {
-		      qText: `The     conjured a rabbit out of his hat`,
+		      qText: `The _________ conjured a rabbit out of his hat`,
                       options: `magician,actor,scientist`
                   },
-		   {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		  {
+		      qText: `The _________ welcomed us aboard`,
+                      options: `flight attendant,sailor,driver`
                   },
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		      qText: `The _________ grows onions in this field`,
+                      options: `farmer,florist,carpenter`
                   },   
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		      qText: `The  _________ took a strike at the goal`,
+                      options: `footballer,cricketer,sailor`
                   },    
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		      qText: `He dressed up as a _________ with a white face and red nose`,
+                      options: `clown,painter,designer`
                   },    
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		      qText: `The _________ sent jets of water into the burning house`,
+                      options: `fireman,painter,captain`
                   },    
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		      qText: `Sherlock Holmes is a famous _________ in stories`,
+                      options: `detective,pilot,teacher`
                   },    
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
+		      qText: `The _________ was hammering in his workshop`,
+                      options: `carpenter,teacher,photographer`
                   },     
 		  {
-		      qText: `Produces videos for the video sharing website Youtube`,
-                      options: `Youtuber,Teacher,Author`
-                  },     
+		      qText: `She is the _________ who planned the new shopping mall`,
+                      options: `architect,doctor,painter`
+                  },  
+		  {
+		      qText: `Einstein was a great _________`,
+                      options: `scientist,sailor,poet`
+                  },    
+		  {
+		      qText: `The _________ repairs broken pipes and leaking taps`,
+                      options: `plumber,carpenter,butcher`
+                  },       
+		  {
+		      qText: `_________ grow different types of crops in their feilds`,
+                      options: `farmers,scientist,teacher`
+                  },    
+		  {
+		      qText: ` _________ uses a hammer and horse nails to mend the shoes`,
+                      options: `cobbler,carpenter,barber`
+                  },
+		  {
+		      qText: `The _________ uses a sewing machine to do his work`,
+                      options: `tailor,plumber,farmer`
+                  },    
+		  {
+		      qText: `Abdul Kalam was an aerospace _________ .`,
+                      options: `scientist,author,captain`
+                  },    
+		   {
+		      qText: ` _________ is the backbone of the Indian nation`,
+                      options: `farmer,teacher,scientist`
+                  }    
               ] 
             }
           }
