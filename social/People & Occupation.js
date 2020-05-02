@@ -212,6 +212,8 @@
             }
           }
 
+
+
 {
       label: "People and workplace",
       type: "matchByDragDrop",
@@ -240,3 +242,27 @@
         ],
       }
 	
+	
+	
+{
+      label: "Occupation and tools",
+      type: "matchByDragDrop",
+      data: {
+        isPractice: true,
+        title: "Drag and drop to match Occupation and tools.",
+        styles: {
+          fontSize: "1rem",
+          leftSize: 150,
+          rightSize: 150,
+        },
+        list: [
+          ["Doctor →", "stethoscope"],
+          ["Plumber →", "wrench"],
+          ["Cobbler →", "shoe polish"],
+          ["Electrician→", "pliers"],
+          ["Carpenter →", "saw"],
+          ["Fisherman →", "net"],
+          ["Beautician →", "makeup kit"],		
+          ["Sculptor →", "chisel"],
+	],
+      }	
