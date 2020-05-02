@@ -211,3 +211,32 @@
               ] 
             }
           }
+
+{
+      label: "People and workplace",
+      type: "matchByDragDrop",
+      data: {
+        isPractice: true,
+        title: "Drag and drop to match People and workplace.",
+        styles: {
+          fontSize: "1rem",
+          leftSize: 150,
+          rightSize: 150,
+        },
+        list: [
+          ["Doctor →", "Hospital"],
+          ["Teacher →", "School"],
+	  ["Lecturer →", "University"],
+	  ["Policeman→", "Police station"],
+	  ["Postman →", "Post office"],
+	  ["Cashier →", "Bank"],
+	  ["Chef →", "Restaurant"],
+	  ["Baker →", "Bakery"],
+	  ["Lawyer →", "Court"],
+	  ["Fireman →", "Fire station"],
+	  ["Librarian→", "Library"],
+	  ["Lifeguard →", "Swimming pool"],
+	  ["Photographer→", "Studio"],
+        ],
+      }
+	
