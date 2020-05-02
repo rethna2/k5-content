@@ -143,7 +143,55 @@
      		  {
 		      qText: `The person in command of a ship`,
                       options: `Captain,Driver,Author`
-                  }
+                  },
+		      
+		   
+		      
+		      
+		      
+		      
+		      
+		      
+		      
+		      
+		      
+		 
+		  {
+		      qText: `The     conjured a rabbit out of his hat`,
+                      options: `magician,actor,scientist`
+                  },
+		   {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },   
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },    
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },    
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },    
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },    
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },     
+		  {
+		      qText: `Produces videos for the video sharing website Youtube`,
+                      options: `Youtuber,Teacher,Author`
+                  },     
               ] 
             }
           }
