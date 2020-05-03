@@ -16,7 +16,23 @@ Entries are : Mouth, Esophagus, Stomach, Pancreas, Liver, Small intestine, Large
 
 1. Conversion of complex food molecules into simpler molecules 
    
-   digestion,respiration,excretion
+   digestion, respiration, excretion
    
 2. Provides oxygen and removes carbon dioxide from the tissues 
+
+   respiratory system, digestive system, nervous system
+   
+3. Transport oxygen and nutrients to all parts of the body
+
+   circulatory system, immune system, nervous system
+   
+4.  Control and coordinate the working of the other systems
+
+    nervous system, digestive system, respiratory system
+    
+5.  Removes the waste products from the body
+
+    excretory system, nervous system, digestive system
+    
+6.
 
