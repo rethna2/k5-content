@@ -92,35 +92,35 @@ Entries are : Mouth, Esophagus, Stomach, Pancreas, Liver, Small intestine, Large
     
 20. This is required for the better functioning of the brain
 
-   oxygen, carbon dioxide, nitrogen
+     oxygen, carbon dioxide, nitrogen
    
 21. Passage through which air passes into the lungs
 
-   wind pipe, food pipe, alimentary canal
+      wind pipe, food pipe, alimentary canal
 
 22. Passage for the entry of air into the windpipe    
 
-   pharynx, esophagus, alimentary canal
+      pharynx, esophagus, alimentary canal
    
 23. Organ placed inside the rib cage
 
-   heart, brain, kidney
+      heart, brain, kidney
    
 24. Organ placed inside the skull
 
-   brain, lungs, heart
+      brain, lungs, heart
    
 25. Primary organ of the respiratory system
 
-   lungs, heart, kidney
+      lungs, heart, kidney
   
 26. Human blood is red due to the presence of   
 
-   haemoglobin, white blood cells, plasma
+      haemoglobin, white blood cells, plasma
    
 27. Muscular partition between the thoracic and abdominal cavity
 
-    diaphragm, stomach, intestine
+      diaphragm, stomach, intestine
     
 28. Group of similar cells work together on a specific task
 
