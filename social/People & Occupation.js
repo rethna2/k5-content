@@ -267,6 +267,7 @@
 	  ["Butcher→", "knife"],
 	  ["Painter →", "brush"],
 	  ["Woodcutter→", "axe"],
-          ["Sculptor →", "chisel"]
+          ["Sculptor →", "chisel"],
+	  ["Farmer →", "Plough"]
 	],
       }	
