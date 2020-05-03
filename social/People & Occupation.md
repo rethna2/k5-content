@@ -138,6 +138,50 @@
           
     Youtuber,Teacher,Author   
     
+35. The person in command of a ship
+          
+     Captain,Driver,Author
+     
+36. The _________ conjured a rabbit out of his hat
+          
+     magician,actor,scientist
+     
+ 37. The _________ welcomed us aboard
+          
+     flight attendant,sailor,driver
+    
+ 38. The _________ grows onions in this field
+          
+     farmer,florist,carpenter
+    
+ 39. The  _________ took a strike at the goal
+          
+     footballer,cricketer,sailor
+    
+ 40. He dressed up as a _________ with a white face and red nose
+          
+     clown,painter,designer
+     
+ 41. The _________ sent jets of water into the burning house
+          
+     fireman,painter,captain
+     
+ 42. Sherlock Holmes is a famous _________ in stories
+          
+     detective,pilot,teacher
+     
+ 43. The _________ was hammering in his workshop
+          
+     carpenter,teacher,photographer 
+    
+ 44. She is the _________ who planned the new shopping mall
+          
+     architect,doctor,painter
+     
+ 45. Einstein was a great _________
+          
+     scientist,sailor,poet  
+    
     
     
     
