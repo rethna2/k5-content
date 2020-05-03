@@ -262,7 +262,11 @@
           ["Electrician→", "pliers"],
           ["Carpenter →", "saw"],
           ["Fisherman →", "net"],
-          ["Beautician →", "makeup kit"],		
-          ["Sculptor →", "chisel"],
+          ["Beautician →", "makeup kit"],
+          ["Photographer→", "camera"],
+	  ["Butcher→", "knife"],
+	  ["Painter →", "brush"],
+	  ["Woodcutter→", "axe"],
+          ["Sculptor →", "chisel"]
 	],
       }	
