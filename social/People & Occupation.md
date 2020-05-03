@@ -72,7 +72,7 @@
    
 18. Flies a plane
           
-   Pilot,Driver,Sailor
+    Pilot,Driver,Sailor
    
 19. Paints pictures or the interior and exterior of buildings
           
@@ -121,3 +121,23 @@
 30. They write books or novels
           
     Author,Newsreader,Teacher
+
+31. Make bread and cakes and normally work in a bakery
+          
+    Baker,Cobbler,Waiter
+    
+32. A person engaged in agriculture
+          
+    Farmer,Lawyer,Painter   
+ 
+33. Servers passengers on an aircraft
+          
+    Air hostess,Farmer,Driver
+    
+34. Produces videos for the video sharing website Youtube
+          
+    Youtuber,Teacher,Author   
+    
+    
+    
+    
