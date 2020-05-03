@@ -233,3 +233,19 @@
 12.	Lifeguard → Swimming pool
 
 13.	Photographer→ Studio
+
+## Drag and drop to match Occupation and associated things
+
+1. Doctor → stethoscope
+2. Plumber → wrench
+3. Cobbler → shoe polish
+4. Electrician→ pliers
+5. Carpenter → saw
+6. Fisherman → net
+7. Beautician → makeup kit
+8. Photographer→ camera
+9. Butcher→ knife
+10.	Painter → brush
+11.	Woodcutter→ axe
+12. Sculptor → chisel
+13. Farmer → plough
