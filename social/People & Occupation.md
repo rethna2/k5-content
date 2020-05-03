@@ -18,95 +18,106 @@
           
    Mechanic,Carpenter,Painter
    
-   5. Reads the news, normally on television
+5. Reads the news, normally on television
           
    Newsreader,Writer,Author
    
-   6. A person that takes photos
+6. A person that takes photos
           
    Photographer,Youtuber,Sailor
    
-   7. Prevent crime 
+7. Prevent crime 
    
    Policeman, Fireman, Florist
    
-   8. Looks after sick animals
+8. Looks after sick animals
           
    Veterinary doctor, Sailor, Captain
    
-   9. Mows the grass regularly
+9. Mows the grass regularly
           
    Gardener, Tailor, Waiter
    
-   10. Delivers mail to your house
+10. Delivers mail to your house
           
    Postman, Policeman, Driver
    
-   11. Works with the accounts of a company
+11. Works with the accounts of a company
           
     Accountant,Cashier,Translator
     
-   12. Acts in a play or a movie
+12. Acts in a play or a movie
           
+    Actor,Director,Editor
    
-   Actor,Director,Editor
-   
-   13. Passes knowledge to students at school
+13. Passes knowledge to students at school
           
    Teacher,Translator,Librarian
    
-   14. Drives a bus
+14. Drives a bus
           
-   Driver,Captain,Pilot
+    Driver,Captain,Pilot
    
-   15. Makes clothes for others
+15. Makes clothes for others
           
    Tailor,Sailor,Sculptor
    
-   16. Works for the army
+16. Works for the army
           
    Soldier,Policeman,Postman
    
-   17. Repairs your water systems or pipes
+17. Repairs your water systems or pipes
           
    Plumber,Cobbler,Butcher
    
-   18. Flies a plane
+18. Flies a plane
           
    Pilot,Driver,Sailor
-   19. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   20. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   21. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   22. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   23. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   24. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   4. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   4. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   4. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
-   4. Repairs machines, especially car motors
-          
-   Mechanic,Carpenter,Painter
    
+19. Paints pictures or the interior and exterior of buildings
+          
+    Painter,Sculptor,Architect
+    
+20. Puts out fires
+          
+   Fireman,Policeman,Soldier
    
+21. Works with flowers
+          
+   Florist,Baker,Painter
    
+22. Translates from one language to another
+          
+   Translator,Writer,Author
    
+23. Works in a library
+          
+   Librarian,Teacher,Lecturer
    
+24. Gives legal advice
+          
+   Lawyer,Principal,Teacher
    
+25. Decides cases in a law court
+          
+   Judge,Captain,Policeman
+   
+26. Looking after customers and serving food in food outlet
+          
+   Waiter,Baker,Plumber
+   
+27. Gives beauty treatment
+          
+   Beautician,Architect,Florist
+   
+28. Mends and repairs shoes
+          
+   Cobbler,Electrician,Butcher
+   
+29. Designs building and houses
+          
+   Architect,Carpenter,Plumber
+   
+30. They write books or novels
+          
+   Author,Newsreader,Teacher
