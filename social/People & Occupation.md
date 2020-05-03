@@ -209,29 +209,17 @@
 ## Drag and drop to match Occupation and workplace
 
 1. Doctor → Hospital
-
 2. Teacher → School
-
 3. Lecturer → University
-
 4. Policeman→ Police station
-
 5. Postman → Post office
-
 6. Cashier → Bank
-
 7. Chef → Restaurant
-
 8. Baker → Bakery
-
 9. Lawyer → Court
-
 10. Fireman → Fire station
-
 11.	Librarian→ Library
-
 12.	Lifeguard → Swimming pool
-
 13.	Photographer→ Studio
 
 ## Drag and drop to match Occupation and associated things
