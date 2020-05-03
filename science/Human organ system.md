@@ -138,6 +138,15 @@ Entries are : Mouth, Esophagus, Stomach, Pancreas, Liver, Small intestine, Large
  
       cornea, teeth, nose
       
+ 32. Group of organs that perform a special function
+ 
+      organ system, muscle, tissue
+      
+ 33. Muscles which are under our control 
+ 
+      voluntary, involuntary, tissue
+      
+      
  
   
    
