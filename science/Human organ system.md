@@ -80,15 +80,15 @@ Entries are : Mouth, Esophagus, Stomach, Pancreas, Liver, Small intestine, Large
     
 17. Bean shaped organs that clean your blood
 
-   kidney, brain, lungs
+    kidney, brain, lungs
    
 18. Functional unit of the kidney
 
-   nephron, neuron, vein
+      nephron, neuron, vein
    
 19. Connects the brain to the spinal cord
 
-    medulla oblongata, cerebrum, cerebellum
+     medulla oblongata, cerebrum, cerebellum
     
 20. This is required for the better functioning of the brain
 
