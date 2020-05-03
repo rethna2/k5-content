@@ -40,7 +40,7 @@
    
 10. Delivers mail to your house
           
-   Postman, Policeman, Driver
+    Postman, Policeman, Driver
    
 11. Works with the accounts of a company
           
@@ -52,7 +52,7 @@
    
 13. Passes knowledge to students at school
           
-   Teacher,Translator,Librarian
+    Teacher,Translator,Librarian
    
 14. Drives a bus
           
@@ -60,15 +60,15 @@
    
 15. Makes clothes for others
           
-   Tailor,Sailor,Sculptor
+    Tailor,Sailor,Sculptor
    
 16. Works for the army
           
-   Soldier,Policeman,Postman
+    Soldier,Policeman,Postman
    
 17. Repairs your water systems or pipes
           
-   Plumber,Cobbler,Butcher
+    Plumber,Cobbler,Butcher
    
 18. Flies a plane
           
@@ -80,44 +80,44 @@
     
 20. Puts out fires
           
-   Fireman,Policeman,Soldier
+    Fireman,Policeman,Soldier
    
 21. Works with flowers
           
-   Florist,Baker,Painter
+    Florist,Baker,Painter
    
 22. Translates from one language to another
           
-   Translator,Writer,Author
+    Translator,Writer,Author
    
 23. Works in a library
           
-   Librarian,Teacher,Lecturer
+    Librarian,Teacher,Lecturer
    
 24. Gives legal advice
           
-   Lawyer,Principal,Teacher
+    Lawyer,Principal,Teacher
    
 25. Decides cases in a law court
           
-   Judge,Captain,Policeman
+    Judge,Captain,Policeman
    
 26. Looking after customers and serving food in food outlet
           
-   Waiter,Baker,Plumber
+    Waiter,Baker,Plumber
    
 27. Gives beauty treatment
           
-   Beautician,Architect,Florist
+    Beautician,Architect,Florist
    
 28. Mends and repairs shoes
           
-   Cobbler,Electrician,Butcher
+    Cobbler,Electrician,Butcher
    
 29. Designs building and houses
           
-   Architect,Carpenter,Plumber
+    Architect,Carpenter,Plumber
    
 30. They write books or novels
           
-   Author,Newsreader,Teacher
+    Author,Newsreader,Teacher
