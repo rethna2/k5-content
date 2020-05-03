@@ -182,6 +182,27 @@
           
      scientist,sailor,poet  
     
+ 46. The _________ repairs broken pipes and leaking taps
+          
+     plumber,carpenter,butcher 
     
-    
-    
+ 47. _________ grow different types of crops in their feilds
+          
+     farmers,scientist,teacher
+     
+ 48.  _________ uses a hammer and horse nails to mend the shoes
+          
+      cobbler,carpenter,barber
+
+ 49. The _________ uses a sewing machine to do his work
+          
+      tailor,plumber,farmer
+
+ 50. Abdul Kalam was an aerospace _________
+          
+     scientist,author,captain
+
+  51. _________ is the backbone of the Indian nation
+          
+      farmer,teacher,scientist
+
