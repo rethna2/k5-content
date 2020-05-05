@@ -40,6 +40,14 @@
                   {
                       qText: `A rod balanced on a fixed point that can help lift a heavy weight with less effort.`,
                       options: `lever, wedge, screw `
+                  },
+		  {
+                      qText: `Seasaws, crowbars, bottle openers are some of the examples of _________  .`,
+                      options: `lever, inclined plane, wedge `
+                  },
+		  {
+                      qText: `The lever is a bar which pivots on a turning point called a _________.`,
+                      options: `fulcrum, resistance, effort `
                   }
               ] 
             }
