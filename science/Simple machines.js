@@ -18,10 +18,6 @@
               title: 'Multiple Choice Questions',
               questions: [
                   {
-                      qText: `_________ can be used to cut materials apart`,
-                      options: `wedge, screw, inclined plane`
-                  },
-                  {
                       qText: `The _________ helps you to move the load or change direction of the force.`,
                       options: `pulley, wedge, wheel and axle`
                   },
@@ -48,6 +44,10 @@
 		  {
                       qText: `_________ is the point on which a lever rests while lifting an object. `,
                       options: `fulcrum, resistance, effort `
+                  },
+		  {
+                      qText: `A _________ is made of two inclined planes and used to push objects apart .`,
+                      options: `wedge, inclined plane, lever `
                   }
               ] 
             }
