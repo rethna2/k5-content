@@ -46,7 +46,7 @@
                       options: `lever, inclined plane, wedge `
                   },
 		  {
-                      qText: `The lever is a bar which pivots on a turning point called a _________.`,
+                      qText: `_________ is the point on which a lever rests while lifting an object. `,
                       options: `fulcrum, resistance, effort `
                   }
               ] 
