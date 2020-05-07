@@ -7,7 +7,7 @@
                   {
                       qText: `Plants give off _________ to help us breathe`,
                       options: `oxygen, carbon dioxide, nitrogen`
-                  },
+                  }
 		      
 		  **************************************************************************
 		  {
