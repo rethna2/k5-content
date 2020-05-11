@@ -113,7 +113,19 @@
                    {
                       qText: ` The _________  is the king of the jungle`,
                       options: `lion, elephant, tiger`
-                  } 
+                  },
+		   {
+                      qText: ` Which animal doesn't give us milk?`,
+                      options: `fish, cow, camel`
+                  },
+		  {
+                      qText: ` _________ animals include both pet and farm animals.`,
+                      options: `domestic, wild, big `
+                  },
+		  {
+                      qText: ` Animals which are useful to us are also called as _________ animals.`,
+                      options: `domestic, wild, pet `
+                  },
               ] 
             }
           }
