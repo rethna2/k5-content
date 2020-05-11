@@ -145,7 +145,15 @@
 		  {
                       qText: ` An owl lives in a _________ in a tree.`,
                       options: `hole, nest, burrow `
-                  }
+                  },
+		  {
+                      qText: ` Fishes breathe with the help of _____`,
+                      options: `gills, lungs, nose`
+                  },    
+		   {
+                      qText: ` I live in hot places and am known as "Ship of the desert". `,
+                      options: `camel, donkey, horse`
+                  }  
               ] 
             }
           }
