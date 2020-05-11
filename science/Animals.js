@@ -89,20 +89,20 @@
                 },      
                     
  {
-            label: "Animals - MCQ",
+            label: "Animals - MCQ- Grade 2",
             type: "mcq",
             data: {
               title: 'Multiple Choice Questions',
               questions: [
-		      {
+		  {
                       qText: `The animals who live in forests are called _________ animals `,
                       options: `wild, farm, domestic `
                   },
-                 {
+                  {
                       qText: `The doctors for animals are called _________ doctors `,
                       options: `veterinary, ortho, pets `
                   },    
-		     {
+		  {
                       qText: `The animal kept at home as a pet is _________ `,
                       options: `cat, lion, wolf`
                   }, 
@@ -126,6 +126,26 @@
                       qText: ` Animals which are useful to us are also called as _________ animals.`,
                       options: `domestic, wild, pet `
                   },
+		 {
+                      qText: `Animals that live in water are called _________ animals.`,
+                      options: `aquatic, terrestrial, aerial`
+                  },
+		  {
+                      qText: ` Which of the following bird cannot fly?`,
+                      options: `kiwi, sparrow, crow`
+                  },
+		  {
+                      qText: `Birds fly with the help of _________.`,
+                      options: `wings, feathers, fins`
+                  },
+		  {
+                      qText: ` This animal has a long trunk, its tusk is used to make ivory.`,
+                      options: `elephant, giraffe, deer `
+                  },
+		  {
+                      qText: ` An owl lives in a _________ in a tree.`,
+                      options: `hole, nest, burrow `
+                  }
               ] 
             }
           }
