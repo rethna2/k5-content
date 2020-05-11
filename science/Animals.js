@@ -73,4 +73,49 @@
           ["chicken →", "chick"]
         ],
       }            
-            
+ {
+            label: 'Domestic and Wild animals - Classify',
+            type: 'group',
+            data: {
+              title: "Drag and drop: Classify Domestic and Wild animals.",
+              types: [
+                {
+                  name: "Domestic",
+                  text: `cow, goat, buffalo, sheep, dog, cat, rabbit `,
+                },
+                {
+                  name: "Wild",
+                  text: `fox, lion, tiger, bear, elephant, wolf, leopard`,
+                },      
+                    
+ {
+            label: "Animals - MCQ",
+            type: "mcq",
+            data: {
+              title: 'Multiple Choice Questions',
+              questions: [
+		      {
+                      qText: `The animals who live in forests are called _________ animals `,
+                      options: `wild, farm, domestic `
+                  },
+                 {
+                      qText: `The doctors for animals are called _________ doctors `,
+                      options: `veterinary, ortho, pets `
+                  },    
+		     {
+                      qText: `The animal kept at home as a pet is _________ `,
+                      options: `cat, lion, wolf`
+                  }, 
+                  {
+                      qText: ` The _________  is the only animal that cannot jump`,
+                      options: `elephant, lion, deer`
+                  },
+                   {
+                      qText: ` The _________  is the king of the jungle`,
+                      options: `lion, elephant, tiger`
+                  } 
+              ] 
+            }
+          }
+                    
+ 
