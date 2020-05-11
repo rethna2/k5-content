@@ -21,7 +21,7 @@
           ["wolf →", "howls"],
           ["donkey →", "brays"],
         ],
-      }
+      },
 {
       label: "Animals Grade 1",
       type: "matchByDragDrop",
@@ -71,8 +71,8 @@
           ["butterfly →", "caterpillar"],
           ["deer →", "fawn"],
           ["chicken →", "chick"]
-        ],
-      }            
+        ]
+      },            
  {
             label: 'Domestic and Wild animals - Classify',
             type: 'group',
