@@ -31,3 +31,22 @@
               ] 
             }
           }
+ {
+            label: 'Fruits & Vegetables- Grade 2/3- MCQ',
+            type: 'mcq',
+            data: {
+              title: 'Multiple Choice Questions',
+              questions: [
+                  {
+                      qText: `Which plant is used as medicine?`,
+                      options: `tulsi, lavender, bamboo `
+                  },
+                  {
+                      qText: `Fruits with smooth skin`,
+                      options: `pear, pineapple, durian`
+                  },
+              ] 
+              ] 
+            }
+          }                       
+                          
