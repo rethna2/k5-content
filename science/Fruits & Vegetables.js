@@ -20,12 +20,16 @@
               title: 'Multiple Choice Questions',
               questions: [
                   {
-                      qText: `Fruits with rough skin`,
+                      qText: `_________ is the fruit with rough skin`,
                       options: `durian, pear, grapes `
                   },
                   {
-                      qText: `Fruits with smooth skin`,
+                      qText: `_________ is the fruit with smooth skin`,
                       options: `pear, pineapple, durian`
+                  },
+		  {
+                      qText: `Which of the following fruit has no seeds ?`,
+                      options: `banana, apple, pear`
                   },
               ] 
               ] 
@@ -54,7 +58,7 @@
                       options: `sugarcane, bamboo, corn`
                   },
                   {
-                      qText: `I have stored food in fruit. People use my leaf to serve food. My Bud is used as vegetable.`,
+                      qText: `People use my leaf to serve food. My Bud is used as vegetable.`,
                       options: `banana, mango, apple`
                   },
                    {
@@ -80,13 +84,13 @@
           rightSize: 150,
         },
         list: [
-          	  ["bamboo →", "paper"],
+          ["bamboo →", "paper"],
 	  ["teak →", "furniture"],
 	  ["eucalyptus →", "medicine"],
 	  ["cotton →", "clothes"],
 	  ["jasmine →", "perfume"],
 	  ["coconut→", "oil"],
-              ["rubber→", "tyre"],
+          ["rubber→", "tyre"],
 	  ],
       },
                           
