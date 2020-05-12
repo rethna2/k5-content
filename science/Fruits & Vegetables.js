@@ -42,11 +42,51 @@
                       options: `tulsi, lavender, bamboo `
                   },
                   {
-                      qText: `Fruits with smooth skin`,
-                      options: `pear, pineapple, durian`
+                      qText: `_________  are called producers`,
+                      options: `plants, animals, birds`
+                  },
+                  {
+                      qText: `_________   is called 'Food factories of a plant'`,
+                      options: `leaves, root, stem`
+                  },
+                  {
+                      qText: `My stem is used to make sugar and juice. I taste sweet.`,
+                      options: `sugarcane, bamboo, corn`
+                  },
+                  {
+                      qText: `I have stored food in fruit. People use my leaf to serve food. My Bud is used as vegetable.`,
+                      options: `banana, mango, apple`
+                  },
+                   {
+                      qText: `The plants that grow in deserts are _________`,
+                      options: `cactus, coconut, mango`
+                  },
+                    {
+                      qText: `Plants that grow in water are called ____ plants.`,
+                      options: `aquatic, terrestrial, aerial`
                   },
               ] 
-              ] 
             }
-          }                       
+          }
+{
+      label: "Plants and products",
+      type: "matchByDragDrop",
+      data: {
+        isPractice: true,
+        title: "Drag and drop to match Plants and their products.",
+        styles: {
+          fontSize: "1rem",
+          leftSize: 150,
+          rightSize: 150,
+        },
+        list: [
+          	  ["bamboo →", "paper"],
+	  ["teak →", "furniture"],
+	  ["eucalyptus →", "medicine"],
+	  ["cotton →", "clothes"],
+	  ["jasmine →", "perfume"],
+	  ["coconut→", "oil"],
+              ["rubber→", "tyre"],
+	  ],
+      },
                           
