@@ -139,7 +139,7 @@
                       options: `wings, feathers, fins`
                   },
 		  {
-                      qText: ` This animal has a long trunk, its tusk is used to make ivory.`,
+                      qText: ` Which animal has a long trunk and its tusk is used to make ivory?`,
                       options: `elephant, giraffe, deer `
                   },
 		  {
@@ -151,7 +151,7 @@
                       options: `gills, lungs, nose`
                   },    
 		   {
-                      qText: ` I live in hot places and am known as "Ship of the desert". `,
+                      qText: ` Which animal live in hot places and am known as "Ship of the desert"? `,
                       options: `camel, donkey, horse`
                   }  
               ] 
