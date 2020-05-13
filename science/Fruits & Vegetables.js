@@ -50,18 +50,14 @@
                       options: `plants, animals, birds`
                   },
                   {
-                      qText: `_________   is called 'Food factories of a plant'`,
-                      options: `leaves, root, stem`
+                      qText: `_________   are called the 'Food factories of a plant'`,
+                      options: `leaves, roots, stems`
                   },
                   {
-                      qText: `My stem is used to make sugar and juice. I taste sweet.`,
+                      qText: `Which plant's stem is sweet and used to make sugar and juice?`,
                       options: `sugarcane, bamboo, corn`
                   },
                   {
-                      qText: `People use my leaf to serve food. My Bud is used as vegetable.`,
-                      options: `banana, mango, apple`
-                  },
-                   {
                       qText: `The plants that grow in deserts are _________`,
                       options: `cactus, coconut, mango`
                   },
