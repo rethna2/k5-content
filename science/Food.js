@@ -15,7 +15,7 @@
               ],
  },
 {
-            label: 'Simple Machines - MCQ',
+            label: 'Food - MCQ',
             type: 'mcq',
             data: {
               title: 'Multiple Choice Questions',
@@ -36,6 +36,10 @@
                       qText: `_________  gives us the energy to do our work.`,
                       options: `food, water, sleep`
                   },
+                  {
+                      qText: `_________ is the meal that we have in the night`,
+                      options: `dinner, lunch, breakfast`
+                  },        
                  
               ] 
             }           
